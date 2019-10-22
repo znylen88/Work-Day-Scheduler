@@ -9,7 +9,7 @@ console.log(currentDay);
 $('#currentDay').append(currentDay + ", " + currentDate);
 $('#currentDay').css("color", "#06AED5");
 
-// Storage of Tasks and Event Listener
+// Storage of Tasks & Event Listener
 
 var taskForm = document.getElementById("taskForm");
 var newTask9Am = document.getElementById("newTask9Am");
