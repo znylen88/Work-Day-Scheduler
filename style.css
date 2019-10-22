@@ -10,13 +10,12 @@ textarea {
   resize: none;
   color: #000000;
   height: 45px;
-  width: 90%;
+  width: 100%;
   line-height: 1.5;
   font-size: 14px;
   font-weight: bold;
   float: left;
-  margin-left: 20px;
-  
+
 }
 
 .jumbotron {
@@ -30,7 +29,7 @@ textarea {
 
 .description {
   white-space: pre-wrap;
-  width: 86%;
+  width: 84%;
   background-color: #d3d3d3;
 }
 
@@ -41,7 +40,6 @@ textarea {
 
 .row {
   white-space: pre-wrap;
-  height: 90px;
   border-top: 1px solid white;
   
 }
@@ -49,7 +47,6 @@ textarea {
 .hour {
   color: #000000;
   border-top: 1px dashed #000000;
-  height: 50px;
   width: 8%;
   height: auto;
   border-right: 1px solid #000000;
@@ -63,7 +60,7 @@ textarea {
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
-  width: 6%;
+  width: 8%;
 
 }
 
