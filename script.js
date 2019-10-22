@@ -24,8 +24,6 @@ var newTask5Pm = document.getElementById("newTask5Pm");
 
 taskForm.addEventListener("submit", function (event) {
 
-    event.preventDefault();
-
     localStorage.setItem("9 AM Task", newTask9Am.value);
     localStorage.setItem("10 AM Task", newTask10Am.value);
     localStorage.setItem("11 AM Task", newTask11Am.value);
@@ -64,3 +62,4 @@ window.onload = function () {
     document.getElementById("newTask5Pm").value = savedValue5Pm;
 
 };
+
