@@ -8,3 +8,7 @@ This project was created to show off my new skills using both jquery and moment.
 Find the current time slot and enter the new task you wish to render to the page. Then click the blue save button to store your new task.
 To delete or update a task, simply input a new task or leave the input blank and reclick the blue save button.
 The task slots will be rendered as different colors depending on whether it is in the past(gray), present(red), or future(green).
+
+## Deployed App
+
+https://znylen88.github.io/Work-Day-Scheduler/
